@@ -1,4 +1,4 @@
-## Speak Number Guessing Game
+## Speech Recognition Game
 
 Number guessing game where you speak your guess into the microphone using the speech recognition API
 
